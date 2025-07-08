@@ -1,6 +1,6 @@
 # 🎯 R6 Cheat with Undetected R6S Aimbot, ESP Features
 
-**R6S Cheat** is your all-in-one solution for dominating Rainbow Six Siege. Designed with precision, performance, and stealth in mind, our cheat includes a powerful **aimbot**, advanced **ESP** (wallhack), and robust **misc tools** to give you the ultimate tactical advantage. Whether you're clearing rooms, holding angles, or clutching in ranked, **R6S Cheat** equips you with the tools you need to outperform and outsmart every opponent.
+**R6 Cheat** is your all-in-one solution for dominating Rainbow Six Siege. Designed with precision, performance, and stealth in mind, our cheat includes a powerful **aimbot**, advanced **ESP** (wallhack), and robust **misc tools** to give you the ultimate tactical advantage. Whether you're clearing rooms, holding angles, or clutching in ranked, **R6S Cheat** equips you with the tools you need to outperform and outsmart every opponent.
 
 Our cheat remains fully **undetected**, backed by continuous updates and a built-in **HWID spoofer** to ensure long-term account security. Join thousands of players who have elevated their gameplay and never looked back.
 
