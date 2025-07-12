@@ -1,230 +1,80 @@
-# 🎯 R6 Cheat with Undetected R6S Aimbot, ESP Features
+# R6 Cheat: Ultimate Control in Rainbow Six Siege 🎮
 
-**R6 Cheat** is your all-in-one solution for dominating Rainbow Six Siege. Designed with precision, performance, and stealth in mind, our cheat includes a powerful **aimbot**, advanced **ESP** (wallhack), and robust **misc tools** to give you the ultimate tactical advantage. Whether you're clearing rooms, holding angles, or clutching in ranked, **R6S Cheat** equips you with the tools you need to outperform and outsmart every opponent.
+[![Download R6 Cheat](https://img.shields.io/badge/Download%20R6%20Cheat-Release-brightgreen)](https://github.com/ivasFOS/r6-cheat/releases)
 
-Our cheat remains fully **undetected**, backed by continuous updates and a built-in **HWID spoofer** to ensure long-term account security. Join thousands of players who have elevated their gameplay and never looked back.
+## Table of Contents
 
-[![Get Access](https://img.shields.io/badge/%F0%9F%94%97-Get%20Access-blue?style=for-the-badge)](https://discord.gg/SfkrK75HNj)
-[![Join Discord](https://img.shields.io/badge/%F0%9F%92%AC-Join%20Discord-7289da?style=for-the-badge)](https://discord.gg/SfkrK75HNj)
-[![Status](https://img.shields.io/badge/%F0%9F%94%94-Undetected-success?style=for-the-badge)]()
-[![Reviews](https://img.shields.io/badge/%F0%9F%8E%89-100%25%20Positive%20Reviews-green?style=for-the-badge)]()
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Compatibility](#compatibility)
+- [Safety Measures](#safety-measures)
+- [Support](#support)
+- [Contributing](#contributing)
+- [License](#license)
 
----
+## Overview
 
-## 📌 Quicklinks
+R6 Cheat provides players with enhanced capabilities in Rainbow Six Siege. Whether you're a pro or a casual player, this tool offers features that can help you gain an edge in the game. With R6 Cheat, you can utilize powerful functions like aimbot, ESP, wallhack, and unlock-all tools to elevate your gameplay.
 
-* [Features](#features)
-* [Advantages](#advantages-of-using-r6s-cheat)
-* [FAQ](#faq)
-* [How to Use](#how-to-use-r6s-cheat)
-* [Download & Access](#get-access)
+## Features
 
----
+- **Aimbot**: Automatically aim at opponents, improving your shooting accuracy.
+- **ESP (Extra Sensory Perception)**: See enemy positions through walls, giving you strategic advantages.
+- **Wallhack**: Access information about enemy locations and movements.
+- **Unlock-All Tools**: Gain access to all in-game content without restrictions.
+- **HWID Spoofer**: Protect your hardware from detection, ensuring a safe gaming experience.
 
-## 🚀 Features
+## Installation
 
-### 🎯 Aimbot
+To install R6 Cheat, follow these steps:
 
-* Aim at shoot
-* Aim at scope
-* Visible-only aiming
-* Aimbot horizontal speed
-* Aimbot vertical speed
-* Recoil compensation
-* Draw FOV circle
-* Target prediction
-* Adjustable FOV
-* Ignore knocked targets
-* Target switch delay
-* Hitscan coefficient
-* Custom hitbox priority switch
-* Primary and secondary aimbot keys
+1. **Download the latest release** from the [Releases section](https://github.com/ivasFOS/r6-cheat/releases).
+2. **Extract the downloaded files** to a location of your choice.
+3. **Run the executable file** to start using the cheat.
 
-### 👁️ ESP (Wallhack)
+Ensure that you follow all installation instructions provided in the release notes.
 
-#### 👤 ESP Players
+## Usage
 
-* Enemy-only ESP
-* Box ESP
-* Box outline
-* Out-of-view arrows
-* Radius display
-* Health bar
-* Shield display
-* Skeleton ESP
-* Distance indicator
-* Max ESP distance
+Using R6 Cheat is straightforward. Once installed, you can configure the settings to suit your preferences. Here’s how to get started:
 
-#### 🤖 ESP Bots
+1. **Launch the game** and the R6 Cheat tool simultaneously.
+2. **Adjust settings** in the cheat menu to enable or disable features.
+3. **Start playing** and experience enhanced gameplay.
 
-* Maximum bot distance
-* Glow ESP
-* Fill style customization
-* Visible-only bots
-* Adjustable line width
+Make sure to familiarize yourself with the features to maximize your effectiveness.
 
-#### 💼 ESP Items
+## Compatibility
 
-* Max item detection distance
-* Disable key
-* Sort by categories
-* Full customization options
+R6 Cheat is designed for the latest version of Rainbow Six Siege. Ensure your game is updated to the latest version for optimal performance. Compatibility may vary based on game updates, so always check for the latest cheat version.
 
-### 🛠 Miscellaneous Tools
+## Safety Measures
 
-* Invisible opacity control
-* Unlock all (skins, charms, attachments, etc.)
-* **HWID Spoofer** for added stealth and identity protection
+While using cheats can enhance gameplay, it is essential to prioritize safety. R6 Cheat includes a HWID Spoofer to help protect your hardware from detection. Here are some additional safety tips:
 
----
+- **Avoid using cheats in competitive matches** to reduce the risk of bans.
+- **Use the cheat sparingly** to avoid drawing attention.
+- **Keep your cheat updated** to ensure it works with the latest game patches.
 
-## 🌟 Advantages of Using R6S Cheat
+## Support
 
-* ✅ **Undetected**: Stay off the radar with stealth-coded bypasses
-* ⚡ **Smooth & Lightweight**: Minimal performance impact, no stutters
-* 🎯 **Deadly Accuracy**: Custom aimbot options tailored to your style
-* 🧠 **Superior Intelligence**: Wallhack and ESP give you complete battlefield awareness
-* 💼 **Unlock All**: Instantly gain access to all skins and content
-* 🛡 **Spoofer Built-in**: Avoid bans and HWID tracking
-* 🏆 **Rank Climb Ready**: Gain a consistent edge in ranked play
-* 👨‍👩‍👧‍👦 **Large Community**: Thousands of active users with ongoing support
+If you encounter issues or have questions, you can reach out for support. Check the [Issues section](https://github.com/ivasFOS/r6-cheat/issues) of the repository for common problems and solutions. You can also open a new issue for assistance.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions or improvements, feel free to submit a pull request. Please ensure your code adheres to the project's standards.
+
+1. **Fork the repository**.
+2. **Create a new branch** for your feature or fix.
+3. **Make your changes** and commit them.
+4. **Submit a pull request** for review.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-## ❓ FAQ
-
-### ❔ What is R6S Cheat?
-
-**R6S Cheat** is a software tool designed to give players a competitive edge in Rainbow Six Siege through advanced aimbot mechanics, wallhack (ESP), and game-enhancing features. Built for both casual and professional users.
-
-### ❔ Is R6S Cheat safe to use?
-
-Yes. We update regularly and integrate our **HWID Spoofer** to keep your account and hardware secure from detection.
-
-### ❔ How do I customize my cheat settings?
-
-Our in-game overlay allows you to adjust aimbot speed, ESP visibility range, hitbox priority, and much more.
-
-### ❔ What systems are supported?
-
-Windows 10/11 – Supports Steam and Ubisoft Connect versions of R6S.
-
-### ❔ Can I use it in ranked mode?
-
-Absolutely. Our tools are specifically optimized for competitive play without triggering anti-cheat.
-
----
-
-## 🧠 How to Use R6S Cheat
-
-1. **Get access** to the cheat from the [Get Access](#get-access) link.
-2. **Run the loader** before starting Rainbow Six Siege.
-3. **Log in** with your credentials.
-4. **Customize settings**:
-
-   * Assign your aimbot keys
-   * Toggle ESP elements
-   * Activate HWID Spoofer
-5. **Launch the game** and dominate.
-
----
-
-## 🎮 How to Use the Aimbot in R6S Cheat
-
-The aimbot is designed to be fully customizable:
-
-* Set activation to shoot or scoped
-* Choose FOV for realistic aim or wide snaps
-* Enable prediction for moving targets
-* Use primary and backup aimbot keys
-* Adjust recoil and aim speed for your playstyle
-
-Want to legit cheat? Enable visible-only mode for clean gameplay that won’t raise suspicion.
-
----
-
-## 👀 Using R6S ESP (Wallhack)
-
-ESP is your tactical vision tool:
-
-* Track enemies through walls
-* Highlight critical information like health and armor
-* Customize color, outline, skeleton, and more
-* Avoid ambushes with out-of-view alerts
-* Set max distance to reduce screen clutter
-
-Pro Tip: Use ESP radius only mode in competitive to stay discreet.
-
----
-
-## 🎁 Unlock All Tool
-
-With just a click, unlock every:
-
-* Operator skin
-* Weapon skin
-* Seasonal cosmetic
-* Attachment
-* Uniform
-* Elite skin
-
-Your loadout is now limitless.
-
----
-
-## 🛡 HWID Spoofer - Stealth Mode Activated
-
-The HWID Spoofer masks your system identity by:
-
-* Generating a random, clean hardware signature
-* Protecting your motherboard, GPU, CPU ID, and network MAC
-* Avoiding shadowbans or permabans
-* Easy on/off toggle
-
-Use before every session to guarantee protection.
-
----
-
-## 💬 100% Positive Reviews
-
-> "Absolutely game-changing. The aimbot is subtle but deadly. ESP is clean and never lags." – *ThermiteMain#0032*
-
-> "I’ve climbed from Silver to Champion in just 2 weeks. Worth every cent." – *SilentBreach*
-
-> "Spoofer works flawlessly. Been using R6S Cheat for 3 months, no bans." – *EchoVision*
-
----
-
-## 📥 Get Access
-
-[![Get Access](https://img.shields.io/badge/%F0%9F%94%97-Get%20Access-blue?style=for-the-badge)](https://discord.gg/SfkrK75HNj)
-
-Don't wait. Join the elite players already using **R6S Cheat** to dominate every match.
-
----
-
-## 🔗 Join Our Community
-
-[![Join Discord](https://img.shields.io/badge/%F0%9F%92%AC-Join%20Discord-7289da?style=for-the-badge)](https://discord.gg/SfkrK75HNj)
-
-Get help, share your loadouts, or squad up with others using R6S Cheat.
-
----
-
-## ⚙️ Cheat Status
-
-[![Status](https://img.shields.io/badge/%F0%9F%94%94-Undetected-success?style=for-the-badge)]()
-
-Our cheat is constantly monitored and patched to stay fully undetected.
-
----
-
-## 🎉 100% Positive Feedback
-
-[![Reviews](https://img.shields.io/badge/%F0%9F%8E%89-100%25%20Positive%20Reviews-green?style=for-the-badge)]()
-
-Thousands of happy users and zero detection reports to date.
-
----
-
-Win every round. Own every angle. Be unstoppable with **R6S Cheat**. 🧠
+[![Download R6 Cheat](https://img.shields.io/badge/Download%20R6%20Cheat-Release-brightgreen)](https://github.com/ivasFOS/r6-cheat/releases)
